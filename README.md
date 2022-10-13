@@ -1,7 +1,6 @@
-NETLIFY LINK:
+**NETLIFY LINK:**
 
 https://bucolic-sorbet-dcda70.netlify.app/
-
 
 **BLOCK:**
 
