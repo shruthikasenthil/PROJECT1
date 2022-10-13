@@ -1,5 +1,10 @@
-**BOX**
+NETLIFY LINK:
+
+https://bucolic-sorbet-dcda70.netlify.app/
 
 
-![Screenshot (2)](https://user-images.githubusercontent.com/112261138/195655809-e086146a-514e-4e42-b8c7-1f94644f47f5.png)
+**BLOCK:**
+
+![Screenshot (2)](https://user-images.githubusercontent.com/112261138/195656840-e692cb34-40fc-4d18-a7e0-194a66ab436d.png)
+
 
